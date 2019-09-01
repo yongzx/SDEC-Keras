@@ -5,6 +5,6 @@ The codes are adapted from the DEC Implementation in Keras https://github.com/ff
 The example used is MNIST.
 
 #### How to Run
-```python
+```bash
 $ python3 keras_sdec.py
 ```
